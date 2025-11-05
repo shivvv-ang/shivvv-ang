@@ -83,9 +83,9 @@
   <h2 style="color:#ffea70;">[ HYPERBOLIC TIME CHAMBER ]</h2>
 
 <div align="center" style="margin-top:25px;">
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://codeforces.com/profile/yourusername"><img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
-  <a href="https://www.codechef.com/users/yourusername"><img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/shiv_ang"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://codeforces.com/profile/The_Almighty_Lord"><img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
+  <a href="https://www.codechef.com/users/"><img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/yourusername"><img src="https://img.shields.io/badge/GFG-000?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" /></a>
   <a href="https://www.hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
   <a href="https://www.codingninjas.com/studio/profile/yourusername"><img src="https://img.shields.io/badge/Code360-000?style=for-the-badge&logo=codingninjas&logoColor=FF5722" /></a>
@@ -100,9 +100,10 @@
   <h2 style="color:#ffe066;">[ POWER STATS ]</h2>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ffcc00&text_color=ffffff&icon_color=ffd700" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=000000&stroke=ffd700&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffffff&sideLabels=ffffff" height="170" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=000000&color=ffcc00&line=ffaa00&point=ffd700&area=true&hide_border=true" style="max-width:100%; margin-top:25px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shivvv-ang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ffcc00&text_color=ffffff&icon_color=ffd700" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=
+shivvv-ang&theme=tokyonight&hide_border=true&background=000000&stroke=ffd700&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffffff&sideLabels=ffffff" height="170" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivvv-ang&theme=react-dark&bg_color=000000&color=ffcc00&line=ffaa00&point=ffd700&area=true&hide_border=true" style="max-width:100%; margin-top:25px;" />
   </div>
 
   <hr style="border:0; height:2px; width:90%;
