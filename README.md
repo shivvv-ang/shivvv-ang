@@ -18,7 +18,7 @@
     YOUNG LORD // SUPER SAIYAN MODE
   </h1>
 
-  <img src="https://i.giphy.com/8oDwbeUhL0C6IylHD1.webp" width="240"
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6aWFrcG90MjIycG8wZ2FiN21ocjlwcGpyYXJpNTBrZm04a2R6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8oDwbeUhL0C6IylHD1/giphy.gif" width="240"
     style="margin:25px 0 15px; border-radius:10px; box-shadow:0 0 25px #ffcc00aa, 0 0 40px #ffcc00aa;" />
 
 <pre style="
