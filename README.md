@@ -15,7 +15,7 @@
   <h1 style="margin:10px 0 0; font-size:52px; letter-spacing:2px;
     background:linear-gradient(90deg,#fff5a0,#ffcc00,#ffea70);
     -webkit-background-clip:text; color:transparent; text-shadow:none;">
-    SHIVANG HARIAKAR // SUPER SAIYAN MODE
+    YOUNG LORD // SUPER SAIYAN MODE
   </h1>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRvNWdpMW14eDY0eTI1ZGdxMng0YnZha2djNTF3bnB4cTI2cGs3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8oDwbeUhL0C6IylHD1/giphy.gif" width="240"
