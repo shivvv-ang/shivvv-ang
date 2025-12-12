@@ -44,18 +44,18 @@
 
 ## Coding Profiles
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GFG-000?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Code360-000?style=for-the-badge&logo=codingninjas&logoColor=FF5722" /></a>
+<a href="https://leetcode.com/u/shiv_ang/"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://codeforces.com/profile/The_Almighty_Lord"><img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /></a>
+<a href="https://www.codechef.com/users/shiv_ang"><img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/shivanghioo1?tab=activity"><img src="https://img.shields.io/badge/GFG-000?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" /></a>
+<a href="https://www.hackerrank.com/profile/shivanghariakar"><img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
+<a href="https://www.naukri.com/code360/profile/41d79573-7a72-417a-8d86-f1c824bf85b5"><img src="https://img.shields.io/badge/Code360-000?style=for-the-badge&logo=codingninjas&logoColor=FF5722" /></a>
 
 ---
 
 ## Portfolio
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
+<a href="https://shivanghariakar-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
 
 ---
 
