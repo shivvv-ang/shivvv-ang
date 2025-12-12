@@ -57,22 +57,3 @@
 
 <a href="https://shivanghariakar-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivvv-ang&show_icons=true&theme=radical&count_private=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvv-ang&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivvv-ang&row=1&column=5&theme=radical" />
-</p>
