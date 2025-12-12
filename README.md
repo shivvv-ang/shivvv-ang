@@ -89,7 +89,7 @@
   <a href="https://www.geeksforgeeks.org/user/yourusername"><img src="https://img.shields.io/badge/GFG-000?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" /></a>
   <a href="https://www.hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
   <a href="https://www.codingninjas.com/studio/profile/yourusername"><img src="https://img.shields.io/badge/Code360-000?style=for-the-badge&logo=codingninjas&logoColor=FF5722" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
+  <a href="https://shivanghariakar-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
 </div>
 
 
