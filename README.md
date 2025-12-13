@@ -35,10 +35,8 @@
 <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=000000&color=000000&logoWidth=20" />
 
 
-**Cloud / Services:**  
+**Cloud:**  
 <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=F2C80F" />
-<img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
 ---
 
