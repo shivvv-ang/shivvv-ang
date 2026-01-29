@@ -59,3 +59,8 @@
 
 <a href="https://shivanghariakar-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=ffffff" /></a>
 
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide=html,css" />
