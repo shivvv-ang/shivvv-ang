@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/gRPC-000?style=for-the-badge&logo=googlecloud&logoColor=00C853" />
 <img src="https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
 
-**Background Jobs & Queues**
+**Background Jobs & Queues:**
 <img src="https://img.shields.io/badge/BullMQ-000?style=for-the-badge&logo=nodedotjs&logoColor=FF6F00" /> 
 <img src="https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
 
