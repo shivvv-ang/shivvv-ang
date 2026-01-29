@@ -1,7 +1,7 @@
 <h1 align="center">Shivang Hariakar</h1>
 
 <p align="center">
-  <strong>Backend Development • Distributed Systems • Real-time Applications</strong>
+  <strong>Full-Stack Developer</strong>
 
 ---
 
